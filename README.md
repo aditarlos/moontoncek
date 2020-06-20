@@ -1,6 +1,6 @@
 # moontoncek
 Moonton checker
--  pkgupdate && pkg upgrade
+-  pkg update && pkg upgrade
 -  pkg install python git
 -  Pkg install nano
 -  pip install requests futures
